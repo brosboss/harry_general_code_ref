@@ -1,0 +1,12 @@
+
+git status
+git log
+cd .git
+git init
+
+do not run git init in a folder that is already tracked by git
+
+// commiting
+
+git add .
+git commit
